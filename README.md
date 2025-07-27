@@ -14,10 +14,10 @@ The primary objective of this project is to develop a computer vision applicatio
 2. **Object Classification:** A pre-trained MediaPipe model is employed to classify the detected objects, ensuring that the recognized objects are clearly identified with corresponding labels displayed on the screen.
 
 **Tools**
-    
+
 1. **MediaPipe:** It's selected for its pre-trained machine learning models specifically designed for various vision tasks, including object detection. MediaPipe provides a streamlined API for integrating ML models into real-time applications
 
-2.**OpenCV (Open Source Computer Vision Library):** It is used for camera interaction (capturing video frames), image preprocessing (e.g., color conversion, flipping), and visualizing the detection results (drawing bounding boxes, labels, and displaying the video stream).
+2. **OpenCV (Open Source Computer Vision Library):** It is used for camera interaction (capturing video frames), image preprocessing (e.g., color conversion, flipping), and visualizing the detection results (drawing bounding boxes, labels, and displaying the video stream).
 
  
 
